@@ -15,7 +15,6 @@
         <RepositoryType>git</RepositoryType>
         <PackageProjectUrl>https://github.com/benbristow/EntityFrameworkCore.CreatedUpdatedDate</PackageProjectUrl>
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
     </PropertyGroup>
 
