@@ -1,5 +1,7 @@
 # EntityFrameworkCore.CreatedUpdatedDate
 
+[![Build project](https://github.com/benbristow/EntityFrameworkCore.CreatedUpdatedDate/actions/workflows/main.yml/badge.svg)](https://github.com/benbristow/EntityFrameworkCore.CreatedUpdatedDate/actions/workflows/main.yml)
+
 Add CreatedDate/UpdatedDate to your entities and have them automatically updated when saving to the database.
 
 ## Usage
